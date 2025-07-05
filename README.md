@@ -16,14 +16,22 @@ Key Features
 
 Hospitality Analysis Dashboard
 
-A comprehensive Power BI dashboard built to analyze and visualize key performance indicators (KPIs) in the hospitality industry, including occupancy, revenue, booking trends, and forecast insights.
+ 
 
-Also covered in this project is the parameter dashboard where I am using the parameters and dax formulae to colour code each parameter. for example the revenue dashboard is displayed in blue, Successful Bookings Dashboard in green and so on and so forth.
+A comprehensive Power BI dashboard built to analyse and visualize key performance indicators (KPIs) in the hospitality industry, including occupancy, revenue, booking trends, and forecast insights.
+Also covered in this project is the parameter dashboard where I am using the parameters and dax formulae to colour code each parameter. for example, the revenue dashboard is displayed in blue, Successful Bookings Dashboard in green and so on and so forth.
+  
 
 Another important aspect covered in this project is the Forecast Dashboard.
 
 Utilizing the forecast feature we have predicted the maximum potential of revenue to be generated in the following 10 weeks.
 
+
+ 
+Drill Through for city analysis and book mark to fetch monthly, weekly and day type(weekend and weekday) data.
+ 
+
+ 
 
 
  
